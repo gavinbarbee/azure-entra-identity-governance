@@ -1,0 +1,10 @@
+# Terraform
+terraform.tfvars
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Claude Code
+CLAUDE.md
+.claude/
